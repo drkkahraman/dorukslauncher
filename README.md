@@ -1,4 +1,4 @@
-# DorukLauncher
+# DorukLauncher 2.4
 
 Modern, şık ve cracked/çevrimdışı hesap destekli Minecraft Mod Başlatıcısı.
 **Linux (Ubuntu/Debian) ve Apple macOS (M1/M2/M3/M4 & Intel)** tam uyumlu!
